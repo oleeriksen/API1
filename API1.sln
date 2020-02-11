@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API1", "API1\API1.csproj", "{0187C7F0-6896-4CEF-8526-04C33AE60FD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeServer", "PrimeServer\PrimeServer.csproj", "{E296D273-2681-4051-B1CA-575B43836DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeLogic", "PrimeLogic\PrimeLogic.csproj", "{33006296-5F8F-40D5-8ED5-7452D4EB0110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenServer", "EvenServer\EvenServer.csproj", "{AC733471-024B-4EF0-85F6-C1619D7C433A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{1FD145DF-90BC-4AE9-BD41-3FCF937AC266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +21,21 @@ Global
 		{0187C7F0-6896-4CEF-8526-04C33AE60FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0187C7F0-6896-4CEF-8526-04C33AE60FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0187C7F0-6896-4CEF-8526-04C33AE60FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E296D273-2681-4051-B1CA-575B43836DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E296D273-2681-4051-B1CA-575B43836DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E296D273-2681-4051-B1CA-575B43836DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E296D273-2681-4051-B1CA-575B43836DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33006296-5F8F-40D5-8ED5-7452D4EB0110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33006296-5F8F-40D5-8ED5-7452D4EB0110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33006296-5F8F-40D5-8ED5-7452D4EB0110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33006296-5F8F-40D5-8ED5-7452D4EB0110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC733471-024B-4EF0-85F6-C1619D7C433A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC733471-024B-4EF0-85F6-C1619D7C433A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC733471-024B-4EF0-85F6-C1619D7C433A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC733471-024B-4EF0-85F6-C1619D7C433A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD145DF-90BC-4AE9-BD41-3FCF937AC266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD145DF-90BC-4AE9-BD41-3FCF937AC266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD145DF-90BC-4AE9-BD41-3FCF937AC266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD145DF-90BC-4AE9-BD41-3FCF937AC266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
